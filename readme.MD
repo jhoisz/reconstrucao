@@ -2,7 +2,7 @@
 
 ## ℹ️ Sobre
 
-O algoritmo de reconstrução de DNA é um processo computacional utilizado para reconstruir a sequência original de um fragmento de DNA a partir de um conjunto de sequências parciais. O objetivo é montar essas reads para produzir a sequência completa do DNA.
+O algoritmo de reconstrução de DNA é um processo computacional utilizado para reconstruir a sequência original de um fragmento de DNA a partir de um conjunto de sequências parciais. O objetivo é montar essas sequências parciais e produzir a sequência completa do DNA.
 
 ## Entrada e Saída
 
