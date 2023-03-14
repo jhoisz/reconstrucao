@@ -17,7 +17,7 @@ AAG,AAT,AGT,ATT,GAA,GGG,GTG,TGA,TGG,TTG,
 > Exemplo de saída:
 
 ```
-AATTGAAGTGGG
+AAGTGAATTGG
 ```
 
 ## Referências utilizadas
